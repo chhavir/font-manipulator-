@@ -1,0 +1,28 @@
+.heading
+{
+    font-size: 25px;
+    width: 100%;
+    box-shadow: 10px 10px 10px grey;
+    margin: 0px;
+}
+
+.note
+{
+    font-size: 20px;
+    color: dark rgb(49, 47, 47);
+}
+
+.copy_right_footer
+{
+    position: fixed;
+    color: cornsilk;
+    width: 100%;
+    background-color: rgb(107, 101, 101);
+    text-align: center;
+    line-height: 2;
+    bottom: 0;
+}
+
+h3{
+    font-size: 25px;
+}
